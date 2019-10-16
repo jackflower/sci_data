@@ -3,6 +3,7 @@
 
 //Jack Flower - SCI
 //Created Obtober, 2019
+//The Master of The...
 
 ///
 ///Funkcja zamienia parametry a z b
